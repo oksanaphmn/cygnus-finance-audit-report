@@ -10,5 +10,5 @@ Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt 
 - Website: [https://cygnus.finance](https://cygnus.finance)
 - Dapp: [https://app.cygnus.finance](https://app.cygnus.finance)
 - Medium: [https://cygnusfinance.medium.com](https://medium.com/@CygnusFinance)
-- Twitter: [https://twitter.com/CygnusFi](https://twitter.com/CygnusFinance)
+- X/Twitter: [https://x.com/CygnusFi](https://x.com/CygnusFinance)
 - Telegram: [https://t.me/CygnusFinance](https://t.me/CygnusFinanceOfficial)
